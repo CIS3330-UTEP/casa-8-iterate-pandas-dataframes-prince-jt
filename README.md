@@ -9,4 +9,4 @@ Then implement a program that iterates the data inside of **big-mac-full-index.c
 1. Method 4: Using iterrows() method
 2. Method 6: Using apply() method
 
-*This repository does not have auto-grading enabled. Please make sure you commit and push the latest code into GitHub*
+*This repository does not have auto-grading enabled. Please make sure you commit and push the latest code into GitHub.*
